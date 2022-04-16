@@ -1,2 +1,2 @@
-first=localFirstValue
-second=localSecondValue
+first: localFirstValue
+second: localSecondValue
