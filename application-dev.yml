@@ -1,2 +1,2 @@
-first-key.value=devFirstValue
-second-key.value=devSecondValue
+first = devFirstValue
+second = devSecondValue
